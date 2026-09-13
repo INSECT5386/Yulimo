@@ -29,41 +29,6 @@
     "뜻": "우리",
     "단수형": "mima (나)"
   },
-  "kasus": {
-    "품사": "동사",
-    "뜻": "~되다, 변화하다",
-    "설명": "상태, 신분, 형태 등의 변화를 나타내는 자동사. 명사 `kagus`(변화)에서 파생됨. 시제, 상, 태, 법은 일반 동사와 동일하게 접두사(`pa'`, `fo'`, `pro'`) 및 접미사(`-sin`, `-po`, `-on`, `-ol`, `-ton`)로 표현됨. 연결은 `-ogo` 또는 문맥에 따라 `-patogo`도 허용되나, `-ogo`가 더 자연스러움.",
-    "예문": [
-      "mima yo sima kwo kasus. → 나는 선생님이 되다.",
-      "walem kwo prerus kwo kasus. → 물이 얼음이 되다.",
-      "pa'kasus → 되었다",
-      "fo'kasus → 될 것이다",
-      "pro'kasus → 되었을 것이다 / 될 것이다(추정)",
-      "kasnus → 되고 있다",
-      "kaspus → 된 상태이다 / 되었다(경험)",
-      "kasushen → 되어야 한다",
-      "kasuswen → 되고 싶다",
-      "kasuscen → 될 수 있다",
-      "pa'kasnus → 되고 있었다",
-      "kasusog → 되고",
-      "pa'kasusog → 됐고",
-      "fo'kasusog → 될 것이고",
-      "kasusa → 되는",
-      "pa'kasusa → 되었는",
-      "fo'kasusa → 될"
-    ]
-  },
-  "lius": {
-    "품사": "동사",
-    "뜻": "~이다",
-    "설명": "정태적 동일성 또는 속성을 서술하는 기본 동사. ‘되다’, ‘하다’ 기능은 제외됨. 시제는 접두사 `pa'`(과거), `fo'`(미래), `pro'`(추정)로 표현되며, 조동사 파생(`-on`, `-ol`, `-ton`) 및 상(`-sin`, `-po`)은 모든 동사에 일반화되어 더 이상 `lius` 전용이 아님.",
-    "예문": [
-      "mima yo sima lius. → 나는 선생님이다.",
-      "tiso higsis yo biok lius. → 그 도시는 크다.",
-      "pa'lius → 이었다",
-      "linus → 했다(완료 상태)"
-    ]
-  },
   "lousus": {
     "뜻": "이동하다"
   },
